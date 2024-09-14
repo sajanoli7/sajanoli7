@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://res.cloudinary.com/teepublic/image/private/s--lIG57B8J--/c_crop,x_10,y_10/c_fit,w_830/c_crop,g_north_west,h_1038,w_1038,x_-104,y_-262/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-215,y_-373/b_rgb:ffffff/c_limit,f_jpg,h_630,q_90,w_630/v1563264328/production/designs/5327140_0.jpg" width="250"/>
 </div>
+![Snake gif](https://github.com/Genius-Stha/Genius-Stha/blob/output/github-contribution-grid-snake-dark.svg)
 
 ***
 
